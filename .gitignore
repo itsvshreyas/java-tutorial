@@ -1,0 +1,9 @@
+*.jar
+.metadata
+.recommenders
+Servers
+RemoteSystemsTempFiles
+*.classpath
+*.project
+*.settings
+*.class

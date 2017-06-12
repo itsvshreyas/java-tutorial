@@ -8,6 +8,10 @@ import java.util.List;
 
 import org.junit.Test;
 
+//Verify(mock) - just put mocked ocject, then put dot, and you will have access
+//to the elements  that are represented with a mock object.
+//verify(session).save(methods from the mock class)
+
 public class Tests 
 {
 	//System under Test - what's the actual Unit.
